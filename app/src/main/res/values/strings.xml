@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">findNumber</string>
+    <string name="botao">Tentar</string>
+    <string name="HintTXT">Número : </string>
+    <string name="Maior">Número inserido é maior.</string>
+    <string name="Menor">Número inserido é menor. </string>
+</resources>
